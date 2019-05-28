@@ -3,7 +3,7 @@
 
 # 주요코드
 RelativeLayout 알아보기
- <br>&#45;LinearLayout은 자식뷰들이 서로 겹쳐있을 수 없으나 RelativeLayout안에서는 자식뷰들이 겹쳐서 배치될 수 있음
+ <br>&#45; LinearLayout은 자식뷰들이 서로 겹쳐있을 수 없으나 RelativeLayout안에서는 자식뷰들이 겹쳐서 배치될 수 있음
 
 - res폴더>>layout폴더안에 있는 activity_main.xml문서를 수정하여 화면제작
 - RelativeLayout의 자식뷰들 배치에 대해 실습
